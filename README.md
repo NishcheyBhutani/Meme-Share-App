@@ -17,4 +17,4 @@ goes away as soon as the new meme is loaded on the screen
 As the "Share" button is clicked it asks you to share it's link through one of various platforms and lets you share
 through one of the platforms
 
-![2 3](https://user-images.githubusercontent.com/74762700/103231055-e9026800-495c-11eb-9866-ae36f488cd9d.png)
+
